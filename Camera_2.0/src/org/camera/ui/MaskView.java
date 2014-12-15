@@ -2,15 +2,16 @@ package org.camera.ui;
 
 import org.AppStart;
 import org.camera.util.DisplayUtil;
-import org.yanzi.playcamera.R;
+import org.devloper.melody.rectcamera.R;
+
 import android.content.Context;
 import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
-import android.graphics.Typeface;
 import android.graphics.Paint.Style;
 import android.graphics.Point;
 import android.graphics.Rect;
+import android.graphics.Typeface;
 import android.util.AttributeSet;
 import android.util.Log;
 import android.widget.ImageView;

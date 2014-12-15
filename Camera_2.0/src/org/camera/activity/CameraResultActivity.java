@@ -5,10 +5,12 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.OutputStream;
+
 import org.camera.gesture.GestureImageView;
 import org.camera.util.FileUtil;
 import org.camera.util.ImageUtil;
-import org.yanzi.playcamera.R;
+import org.devloper.melody.rectcamera.R;
+
 import android.graphics.Bitmap;
 import android.graphics.Bitmap.CompressFormat;
 import android.graphics.Bitmap.Config;
